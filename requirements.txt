@@ -1,0 +1,9 @@
+numpy
+scipy
+tensorflow
+
+pyyaml
+
+PySoundFile
+python_speech_features
+editdistance
